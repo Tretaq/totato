@@ -74,10 +74,9 @@ Settings/Show_Tooltips=true
 
 [application]
 
-config/name="Totato"
-run/main_scene="uid://c1sx7bic4uhdj"
-config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="uid://du1cmpuf88ggl"
+config/name="Your First 2D Game With Godot 4: START (GDQuest)"
+config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="res://icon.png"
 
 [display]
 
